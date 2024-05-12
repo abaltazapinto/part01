@@ -7,7 +7,7 @@ const Hello = (props) => {
   return (
     <div>
       <p>
-        Hello {props.name}, you dsfsdf dsad <s></s>are {props.age}{" "}
+        Hello {props.name}, you <s></s>are {props.age}{" "}
       </p>{" "}
       <br></br>
     </div>
